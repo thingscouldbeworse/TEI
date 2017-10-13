@@ -1,0 +1,8 @@
+anthology_p = element anthology { poem_p+ }
+poem_p = element poem { heading_p?, stanza_p+ }
+stanza_p = element stanza {line_p+}
+heading_p = element heading { text }
+line_p = element line { text }
+metaphor_p = element metaphor { line_p*, text  }
+start = anthology_p
+
