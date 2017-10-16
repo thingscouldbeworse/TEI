@@ -1,10 +1,11 @@
 anthology_p         = element anthology { poem_p+ }
-poem_p              = element poem { heading_p?, stanza_p+ }
+poem_p              = element poem { heading_p?, stanza_p+, author_p+ }
+author_p            = element author { text }
 stanza_p            = element stanza { line_p+ }
 heading_p           = element heading { text }
 line_p              = element line { text }
 metaphor_p          = element metaphor { line_p*, text  }
-enjambment_p        = element enjambment { text }
+enjambment_p        = attribute enjambment { line_p* }
 anaphora_p          = element anaphora { text }
 personification_p   = element personification { text }
 elision_p           = element elision { text }
