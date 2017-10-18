@@ -3,26 +3,26 @@
         <heading>The Mystery</heading>
         <author>Paul Laurence Dunbar</author>
         <stanza>
-            <line enjambment='1'>I was not; now I am—a few days hence</line>
-            <line enjambment='1'>I shall not be; I fain would look before</line>
-            <line enjambment='1'>And after, but can neither do;some Power</line>
-            <line>Or lack of power says “no” to all I would.</line>
-            <line>I stand upon a wide and sunless plain,</line>
-            <line>Nor chart nor steel to guide my steps aright.</line>
-            <line><elision>Whene’er</elision>, <elision>o’ercoming</elision> fear, I dare to move,</line>
-            <line>I grope without direction and by chance.</line>
-            <line enjambment='1'>Some feign to hear a <personification>voice</personification> and feel a <personification>hand</personification></line>
-            <line>That draws them ever upward <elision>thro’</elision> the gloom.</line>
-            <line>But I—I hear no <personification>voice</personification> and touch no <personification>hand</personification>,</line>
-            <line><anaphora><elision>Tho’<elision> oft <elision>thro’</elision></anaphora> silence infinite I list,</line>
-            <line>And strain my hearing to <alliteration>supernal sounds</alliteration>;</line>
+            <line enjambment='1'>   I was not; now I am—a few days hence                                    </line>
+            <line enjambment='1'>   I shall not be; I fain would look before                                </line>
+            <line enjambment='1'>   And after, but can neither do;some Power                                </line>
+            <line>                  Or lack of power says “no” to all I would.                              </line>
+            <line>                  I stand upon a wide and sunless plain,                                  </line>
+            <line>                  Nor chart nor steel to guide my steps aright.                           </line>
+            <line><elision>         Whene’er</elision>, <elision>o’ercoming</elision> fear, I dare to move, </line>
+            <line>                  I grope without direction and by chance.                                </line>
+            <line enjambment='1'>   Some feign to hear a <personification>voice</personification> and feel a <personification>hand</personification></line>
+            <line>                  That draws them ever upward <elision>thro’</elision> the gloom.         </line>
+            <line>                  But I—I hear no <personification>voice</personification> and touch no <personification>hand</personification>,</line>
+            <line><anaphora><elision>Tho’<elision> oft </elision>thro’</elision></anaphora> silence infinite I list,</line>
+            <line>                  And strain my hearing to <alliteration>supernal sounds</alliteration>;  </line>
             <line><anaphora><elision>Tho’</elision> oft <elision>thro’</elision></anaphora> fateful darkness do I reach.</line>
-            <line>And stretch my hand to find that other <personification>hand</personification>,</line>
-            <line enjambment='1'>I question of <elision>th’</elision> eternal bending skies</line>
-            <line>That seem to neighbor with the novice earth;</line>
-            <line enjambment='1'>But they roll on, and daily <personification>shut their eyes</personification></line>
-            <line>On me, as I one day shall do on them,</line>
-            <line>And tell me not the secret that I ask.</line>
+            <line>                  And stretch my hand to find that other <personification>hand</personification>,</line>
+            <line enjambment='1'>   I question of <elision>th’</elision> eternal bending skies              </line>
+            <line>                  That seem to neighbor with the novice earth;                            </line>
+            <line enjambment='1'>   But they roll on, and daily <personification>shut their eyes</personification></line>
+            <line>                  On me, as I one day shall do on them,                                   </line>
+            <line>                  And tell me not the secret that I ask.                                  </line>
         </stanza>
     </poem>
 </anthology>
